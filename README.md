@@ -44,6 +44,7 @@
 
 <a href="https://github.com/iamAntimPal/Antima">  visit the project
 </a>
+<br>
 This project is a web-based portfolio that beautifully showcases the photography work of Sophia Williams, a fictional photographer. The portfolio was skillfully built using a combination of powerful front-end technologies, including Tailwind CSS, CSS, HTML, and JavaScript.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
