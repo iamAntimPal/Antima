@@ -42,7 +42,7 @@
 
 # 📋 About The Project <a name="about-the-project"></a>
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/Antim.io/photography-portfolio)
+<href src="https://github.com/iamAntimPal/Antima">
 
 This project is a web-based portfolio that beautifully showcases the photography work of Sophia Williams, a fictional photographer. The portfolio was skillfully built using a combination of powerful front-end technologies, including Tailwind CSS, CSS, HTML, and JavaScript.
 
@@ -69,7 +69,7 @@ To get a local copy up and running follow these simple example steps.
 1. Clone the repo
 
 ```sh
- git clone https://github.com/JoaoFranco03/photography-portfolio/.git
+ git clone https://github.com/iamAntimPal/Antima.git
 ```
 
 2.  Run the following command:
